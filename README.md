@@ -23,7 +23,7 @@ pytorchtools
 
 ## Usage (Step by step runing)
 
-### 0. Creat direction
+### 0. Create Dictionaries
 
 please create files: cell_feature_900.p, codes_cell.p and drug_feature_cell.p
 
