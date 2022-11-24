@@ -4,13 +4,21 @@
 ## Requirements
 
 Python 3.6
+
 torch 1.7.0+cu110
+
 torch-geometric 
+
 torch-scatter 
+
 torch-spars  
+
 torch-cluster 
+
 rdkit 
+
 pytorchtools 
+
 
 
 ### Usage (Step by step runing)
