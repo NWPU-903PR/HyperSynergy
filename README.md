@@ -11,7 +11,7 @@ torch-geometric
 
 torch-scatter 
 
-torch-spars  
+torch-sparse  
 
 torch-cluster 
 
