@@ -21,13 +21,13 @@ pytorchtools
 
 
 
-### Usage (Step by step runing)
+## Usage (Step by step runing)
 
-# 1. Representation Learning
+### 1. Representation Learning
 
 please run representation_learning.py
 
-# 2. Meta-training 
+### 2. Meta-training 
 
 please run train_few_shot.py
 
