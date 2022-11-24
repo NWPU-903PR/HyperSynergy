@@ -23,6 +23,10 @@ pytorchtools
 
 ## Usage (Step by step runing)
 
+### 0. Creat direction
+
+please create files: cell_feature_900.p, codes_cell.p and drug_feature_cell.p
+
 ### 1. Representation Learning
 
 please run representation_learning.py
