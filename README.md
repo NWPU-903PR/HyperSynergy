@@ -44,15 +44,10 @@ If you would like to test the power of HyperSynergy on meta-test cell lines, ple
 
 If you find our work is useful for your research, please consider citing our paper:
 
-@article{zhang2023few,
-
-  title={Few-Shot Drug Synergy Prediction With a Prior-Guided Hypernetwork Architecture},
-
-  author={Zhang, Qingqing and Zhang, Shaowu and Feng, Yuehua and Shi, Jianyu},
-
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-
-  year={2023},
-  
+@article{zhang2023few,<br>
+  title={Few-Shot Drug Synergy Prediction With a Prior-Guided Hypernetwork Architecture},<br>
+  author={Zhang, Qingqing and Zhang, Shaowu and Feng, Yuehua and Shi, Jianyu},<br>
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},<br>
+  year={2023},<br>
   publisher={IEEE}
 }
