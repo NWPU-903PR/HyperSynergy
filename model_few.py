@@ -30,9 +30,11 @@ class Inference_model(nn.Module):
         super(Inference_model, self).__init__()
         self.conv1 = nn.Conv2d(2, 64, 3, 1, 1)
         self.norm1 = nn.LayerNorm([64, 16, 16])
+        #self.norm1 = nn.BatchNorm2d(64)
         self.pool1 = nn.MaxPool2d(2, 2)
         self.conv2 = nn.Conv2d(64, 64, 3, 1, 1)
         self.norm2 = nn.LayerNorm([64, 8, 8])
+        #self.norm2 = nn.BatchNorm2d(64)
 
         self.pool2 = nn.MaxPool2d(2, 2)
         self.conv3 = nn.Conv2d(64, 256, 3, 1, 1)
